@@ -1,9 +1,10 @@
 # 👋 Acerca de mí
 Mi nombre es Mario Aguilera, estudiante de la carrera de Analista Programador, y Diseñador Industrial de profesión.
+
 Tengo 31 años, y vivo en Santiago de Chile.
 
 ## 🔭 Proyectos
-Creé este repositorio para documentar proyectos personales en los que estoy trabajando actualmente, que van desde accesibilidad hasta desarrollo de instrumentos de medición.
+Creé este repositorio para documentar proyectos personales en los que estoy trabajando, que van desde accesibilidad hasta desarrollo de instrumentos de medición.
 
 ## 🌱 Estudios
 Estoy en 4° semestre de la carrera de Analista Programador, impartida por Duoc-UC.
