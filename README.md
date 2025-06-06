@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Acerca de mí
+Mi nombre es Mario Aguilera, estudiante de la carrera de Analista Programador, y Diseñador Industrial de profesión.
+Tengo 31 años, y vivo en Santiago de Chile.
 
-<!--
-**Corzaga/corzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Proyectos
+Creé este repositorio para documentar proyectos personales en los que estoy trabajando actualmente, que van desde accesibilidad hasta desarrollo de instrumentos de medición.
 
-Here are some ideas to get you started:
+## 🌱 Estudios
+Estoy en 4° semestre de la carrera de Analista Programador, impartida por Duoc-UC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tecnologías
+Aprendí a programar con Python en 2013, luego desarrollé pequeños proyectos en Java. Actualmente desarrollo en C++ (micro-controladores), y para proyectos del instituto utilizamos Java con Spring Boot, y MySQL.
+
+## 📫 Cómo contactarme
+E-mail: mcorderoaguilera@gmail.com
