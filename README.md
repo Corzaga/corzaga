@@ -1,5 +1,5 @@
 # 👋 Acerca de mí
-Mi nombre es Mario Aguilera, estudiante de la carrera de Analista Programador, y Diseñador Industrial de profesión.
+¡Hola! Mi nombre es Mario Aguilera, estudiante de la carrera de Analista Programador, y Diseñador Industrial de profesión.
 
 Tengo 31 años, y vivo en Santiago de Chile.
 
